@@ -2,5 +2,6 @@
     "latestVersionName": "1.0.0",
     "latestVersionCode": 1,
     "updateMessage": "A new version of the app is available! Please update for new features and bug fixes.",
-    "forceUpdate": false
+    "forceUpdate": false,
+    "codeword": "DragonSlayer"
 }
